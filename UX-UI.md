@@ -17,3 +17,5 @@ TIPS for the way of thinking:
 * think in movement & motion
 * think analog (room & space)
 * combine analog & digital
+
+EXPAND YOUR MIND WITH THIS WAY OF THINKING
