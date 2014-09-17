@@ -19,6 +19,7 @@ TIPS for the way of thinking:
 * combine analog & digital
 
 EXPAND YOUR MIND WITH THIS WAY OF THINKING
+http://www.smashingmagazine.com/2014/01/27/pragmatic-ux-techniques-for-smarter-websites/
 
 NAVIGATION
 BREADCRUMB NAVIGATION
